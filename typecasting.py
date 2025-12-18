@@ -8,6 +8,5 @@ is_student = True
 gpa = int(gpa)
 print(type(gpa))
 
-
-print(str(age))
+age = str(age)
 print(type(age))
