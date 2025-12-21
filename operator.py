@@ -18,3 +18,8 @@ print(mul)
 sub = 0 
 sub -= 2
 print(sub)
+
+divide  = 2
+divide /=2 
+
+print(int(divide))
