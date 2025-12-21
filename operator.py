@@ -9,3 +9,8 @@ print(freind)
 friends = 0
 friends +=0 
 print(friends)
+
+
+mul = 5
+mul *=4
+print(mul)
