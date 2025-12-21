@@ -14,3 +14,7 @@ print(friends)
 mul = 5
 mul *=4
 print(mul)
+
+sub = 0 
+sub -= 2
+print(sub)
