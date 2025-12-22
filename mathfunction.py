@@ -1,0 +1,13 @@
+y = 3.14
+x = -1
+z = 5
+
+# round(number , digit)
+# result = round(y, x)
+
+# result = round(y)
+
+# result = abs(x)
+# result = max (x,y,z)
+result = min(x,y,z)
+print(result)
