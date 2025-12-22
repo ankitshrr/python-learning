@@ -1,2 +1,7 @@
 # Python_Basics
-Python basics and practice codes for learning fundamentals.
+1. Basic python print 
+2. Variable 
+3. Typecasting
+4. Userinput
+5. Operator
+

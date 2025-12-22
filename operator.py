@@ -1,25 +1,24 @@
-# 1. Create the variable first
-freind = 0 
+# Operator
 
-# 2. Now you can update it
-freind =freind + 1
+# 1. Arithmetic Operator is special symbol or keyword usedd to perform operation on variable and value
+a = 1
+b = 2
+add = a + b
+sub = a - b
+mul = a * b
+div = a / b
+modulus = a % b
+exonentiation = a**b
+division = a // b  # floor division
+# print (div)
 
-print(freind)
-# 3. shorcut waay to use it
-friends = 0
-friends +=0 
-print(friends)
-
-
-mul = 5
-mul *=4
-print(mul)
-
-sub = 0 
-sub -= 2
-print(sub)
-
-divide  = 2
-divide /=2 
-
-print(int(divide))
+# Augmented  or assignment operators
+x = 5
+# x += 3
+# x *= 3
+# x -=1
+# x /= 2
+# x //=2
+# x **= 2
+# x %= 2
+print(x)
