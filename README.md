@@ -3,5 +3,7 @@
 2. Variable 
 3. Typecasting
 4. Userinput
-5. Operator
+5. Operator like Augmented / assignment Operator 
+6. Math Function
+7. Math Module Function
 
