@@ -8,10 +8,10 @@ a =1
 
 # result = round(y)
 
-# result = abs(x)
+result = abs(x)
 # result = max (x,y,z)
 # result = min(x,y,z)
-result =pow(z , y)
+# result =pow(z , y)
 print(result)
 
 
