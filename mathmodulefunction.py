@@ -8,10 +8,10 @@ x = 9.5
 
 
  # Ceil:round up to the  nearest whole number
-result=(math.ceil(x))
+# result=(math.ceil(x))
 
 #Floor:round down the the nearest integer
 # result= math.floor(x)
-
+result =math.fabs(-7)
 print(result)
 
