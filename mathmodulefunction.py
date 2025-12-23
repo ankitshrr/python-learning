@@ -12,6 +12,7 @@ x = 9.5
 
 #Floor:round down the the nearest integer
 # result= math.floor(x)
-result =math.fabs(-7)
+# result =math.fabs(-7)
+result =math.factorial(9)
 print(result)
 
