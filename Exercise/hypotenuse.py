@@ -3,5 +3,5 @@ import math
 a = float(input("Enter base: "))
 b = float(input("Enter height: "))
 
-hypotenuse = math.sqrt(a**2 + b**2)
+hypotenuse = round(math.sqrt(pow(a,2) + pow(b,2)),22)
 print("Hypotenuse =", hypotenuse)
