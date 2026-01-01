@@ -15,4 +15,4 @@ elif Operator == "/":
     print(result)
 else:
     print("Error")
-
+S
