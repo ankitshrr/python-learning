@@ -8,5 +8,5 @@
 7. Math Module Function
 8. If Statement
 9. Logical Operator
-8. conditonal
+8. conditonal op
 
