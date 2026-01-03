@@ -1,4 +1,4 @@
-# Python_Basics
+#  Python_Basics
 1. Basic python print 
 2. Variable 
 3. Typecasting
@@ -8,5 +8,5 @@
 7. Math Module Function
 8. If Statement
 9. Logical Operator
-8. conditonal op
-
+10. Conditional Expression  or Ternary Operator
+ 
