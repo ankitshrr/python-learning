@@ -26,4 +26,4 @@ is_student= True
 
 print(f"you are a student?:{is_student}")
 
-e = None #e is a non type variable
+e = None #e is a none type variable

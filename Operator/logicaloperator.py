@@ -21,3 +21,5 @@ if a>20  and not is_sunny:
    print("it is sunny")
 else :
  print("its not sunny")
+
+
