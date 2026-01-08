@@ -1,0 +1,11 @@
+Memory Tip:
+for list
+Add → append, insert, extend
+
+Remove → pop, remove, clear
+
+Check → count, index, in
+
+Organize → sort, reverse
+
+Copy → copy
