@@ -21,5 +21,7 @@ print(num)
 
 
 
-counts= ["wanzy","wanzy"]
-print(counts.index("wanzy"))
+counts= ["wanzy","wanzy",1]
+#print(counts.index(1))
+counts.count(1)
+print(counts)
