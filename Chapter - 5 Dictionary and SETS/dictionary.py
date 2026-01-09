@@ -5,3 +5,4 @@ marks = {
 }
 print(type(marks))
 print(marks["harry"])
+d ={}#dictionary empty
