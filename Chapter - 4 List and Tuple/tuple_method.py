@@ -5,3 +5,5 @@ print(a)
 reapeted=a*3
 print(reapeted)
 print(2 in a )
+result = a.index(45)
+print(result)
