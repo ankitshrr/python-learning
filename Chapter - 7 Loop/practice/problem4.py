@@ -8,5 +8,5 @@ if n > 1:
     else:
             print("it is  prime")
 else:
-     
+     print("number is less than 1")
 
