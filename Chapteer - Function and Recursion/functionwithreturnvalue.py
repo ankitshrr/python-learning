@@ -1,9 +1,5 @@
-def greet(n):
-    i = 1
-    sum = 0 
-    n = sum + i 
-    return n
+def square(n):
+    return n * n # return the values to function 
+result = (square(4)) 
 
-
-
-greet(2)
+print(result)
