@@ -11,4 +11,5 @@ def avg():
     average = n1 + n2 + n3 / 3
     print(average)
     
-avg()
+avg()#function call 
+print("thank you")
