@@ -8,4 +8,5 @@
 
 # greatestnumber(20,12,23)
 def greatestnumber(a,b,c):
-    pDdd
+    return max(a,b,c)
+print(greatestnumber(2,3,4))
