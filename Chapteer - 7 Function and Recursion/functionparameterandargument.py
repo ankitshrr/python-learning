@@ -6,4 +6,4 @@ while num > 0:
     rev = rev * 10 + digit
     num = num // 10
 
-print(r=
+print(rev)
