@@ -10,6 +10,7 @@
 9. Logical Operator
 10. Conditional Expression  or Ternary Operator
 11. String,its function,method,slicing,escape_sequence
-12. list
+12. list,tuple
 13. function
+14. 
 
