@@ -6,5 +6,5 @@ class Employee :
     
     
 ankit =Employee()
-ankit.language= "as" #this is an object or instance attribute
+ankit.language= "as" #this is an object or instance attributes
 ankit.getInfo() #-> change it to this and get error if not call in self para #Employee.getInfo(ankit)
