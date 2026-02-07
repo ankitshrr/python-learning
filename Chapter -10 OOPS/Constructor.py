@@ -4,7 +4,7 @@ class Employee :
     def getInfo(self):
      print(f"the language is {self.language}. THE salary is {self.salary}")
     
-    def __init__(self):
+    def __init__(self): #dunder method whic is autmocally cal
        print("i am lerning ")
 ankit =Employee()
 ankit.language= "as"
