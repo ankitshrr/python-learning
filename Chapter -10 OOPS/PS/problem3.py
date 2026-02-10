@@ -5,5 +5,6 @@ class program :
 ankit = program()
 ankit.a=0 
 print(ankit.a)
+
 print(program.a)
 
