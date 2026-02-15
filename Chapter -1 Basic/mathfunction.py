@@ -1,19 +1,30 @@
-# math function is a  individual functin used to do calculation  
-y = 3.14
-x = -1
-z = 5
-a =1
-# round(number , digit)
-# result = round(y, x)
+# Math functions = built-in tools used for calculations
 
-# result = round(y)
+y = 3.14   # decimal number
+x = 1      # integer
+z = 5      # integer
+a = 1      # integer
 
-result = abs(x)
-# result = max (x,y,z)
-# result = min(x,y,z)
-# result =pow(z , y)
-print(result)
+# round(number, digits)
+# Rounds a number to given decimal places
+# result = round(y, x)     # rounds 3.14 to 1 decimal → 3.1
+# result = round(y)        # rounds 3.14 to nearest whole number →
+# abs(number)
+# Returns positive value (removes negative sign)
+result = abs(x)            # abs(1) → 1
 
+# max(numbers)
+# Returns the largest value
+# result = max(x, y, z)    # → 5
 
-#Function = one calculator button
+# min(numbers)
+# Returns the smallest value
+# result = min(x, y, z)    # → 1
 
+# pow(base, exponent)
+# Raises number to a power
+# result = pow(z, y)       # 5 raised to 3.14
+
+print(result) 
+
+# Function = like one calculator button
