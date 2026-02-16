@@ -1,5 +1,5 @@
 # Variable = a container for a value(string,boolean,float,integer)used to hold or store the data
-
+# A datatype tells the computer what kind of value a variable is storing.
 # string
 first_name = "hello"
 food = "banana"
