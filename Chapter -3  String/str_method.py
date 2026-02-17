@@ -4,3 +4,5 @@ a ="vr7"
 print(a.startswith("V"))
 print(a.upper())
 print(a.capitalize())
+
+print(a.title())
