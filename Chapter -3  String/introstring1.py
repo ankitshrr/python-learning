@@ -1,6 +1,9 @@
 a = 'harry'
 b = "python"
-c = '''asadsa'''
+
+#for multi-line text
+c = '''asadsa ddffds fdsfdsfsd
+errerr trtetre h rrtre terer eerre'''
 e = a[:5]
 
 print(e)
