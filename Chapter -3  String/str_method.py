@@ -5,11 +5,11 @@ print(a.startswith("V"))
 print(a.upper())
 print(a.capitalize())
 
-print(a.title())#capitalize each word first letter except middlespace
+print(a.title())#capitalize each word first letter
 text = "  QA Engineer  "
 
 print(text.strip())
-text = "QQQA EngineerQQQ"
+text = "QQQA EngineerQQQ"#remove both side space and also remove charaacter  if value is pass
 print(text.strip("Q"))
 
 data = "apple,banana,orange"
