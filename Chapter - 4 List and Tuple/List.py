@@ -23,3 +23,11 @@ print(club[2])
 
 
 print(club)
+
+# in → xa
+
+# not in → chaina
+
+# True → not → False
+
+# False → not → True
