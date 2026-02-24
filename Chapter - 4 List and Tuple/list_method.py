@@ -33,3 +33,8 @@ num.remove("ankit")   # removes 'ankit' from list
 # extend(iterable) → adds all elements of another list into this list
 num.extend(li)   # adding sorted li elements into num
 print(num)
+
+
+revClub =["barcelona","Real Madrid","Juventus"]
+revClub.reverse()#reverse change the original list and doesnt return new listg
+print(revClub)
