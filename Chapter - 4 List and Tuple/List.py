@@ -10,24 +10,5 @@ print(club)     # ['barcelona', 'real madrid', 'juv']
 print(club[2])  # juv
 
 # Printing full list again
-print(club)# List of football clubs
-# Lists are → mutable (changeable), ordered (index works), allow duplicates
-club = ["barca", "real madrid", "juv"]
-
-# Changing element at index 0 (mutable behavior)
-club[0] = 'barcelona'
-print(club)     
-
-# Access element using index (ordered behavior)
-print(club[2]) 
-
-
 print(club)
 
-# in → xa
-
-# not in → chaina
-
-# True → not → False
-
-# False → not → True
