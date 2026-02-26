@@ -1,0 +1,25 @@
+# Or: True if cobditiob is  true
+a=20
+is_sunny = False
+if a>20 or is_sunny:
+    print("it is sunny")
+else :
+    print("its not sunny")
+
+# And: True if both conditin is ture
+# a=20
+# is_sunny = False
+# if a>20 and is_sunny:
+#     print("it is sunny")
+# else :
+#     print("its not sunny")
+
+#not: rever the boolean
+a=21
+is_sunny = False
+if a>20  and not is_sunny:
+   print("it is sunny")
+else :
+ print("its not sunny")
+
+
