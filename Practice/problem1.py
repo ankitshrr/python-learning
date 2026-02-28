@@ -1,20 +1,10 @@
-#print multiline using only one statement
-print('''sds
-      sdddsdsda
-      a
-      ds
-      dsds
-      d
-      
-      d
-      ds
-      ds
-      d
-      s
-      ds
-      d
-      sad
-      s
-      adsa
-      d
-      ssadas''')
+#Remove Duplicates BUT Keep order
+nums = [6,1, 2, 2, 3, 4, 3, 5]
+unique = []
+
+for num in nums:
+    if num not in unique:
+      unique.append(num)
+        
+unique.sort()
+print(unique)
