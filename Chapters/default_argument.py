@@ -1,3 +1,4 @@
+# This code demonstrates the behavior of default mutable arguments in Python.
 def func(val, lst=[]):
     lst.append(val)
     return lst
