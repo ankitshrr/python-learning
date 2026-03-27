@@ -6,5 +6,4 @@ print(a == b)  # True  (values are same)
 print(a is b)  # False (different memory objects)
 c = [1,2,3]
 b = c
-
 print(b is c)  # True (both point to same object)
