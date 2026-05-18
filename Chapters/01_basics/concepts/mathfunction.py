@@ -1,6 +1,7 @@
 # Math functions = built-in tools used for calculations
+# Function = like one calculator button
 
-y = 3.14   # decimal number
+y = 3.1  # decimal number
 x = -1      # integer
 z = 5      # integer
 a = 1      # integer
@@ -27,4 +28,4 @@ result = pow(z, y)       # 5 raised to 3.14
 
 print(result) 
 
-# Function = like one calculator button
+
