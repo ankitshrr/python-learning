@@ -8,7 +8,7 @@ print(a.capitalize())
 print(a.title())#capitalize each word first letter
 text = "  QA Engineer  "
 print(text.strip())
-text = "QQQA EngineerQQQ"#remove both side space and also remove charaacter  if value is pass
+text = "QQQA QQQa"#remove both side space and also remove charaacter  if value is pass
 print(text.strip("Q"))
 
 data = "apple,banana,orange"
