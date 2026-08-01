@@ -1,36 +1,78 @@
 # 🐍 Python Basics
 
-Welcome to the **Python Basics** repository! This collection of files, chapters, and projects is designed to guide you through learning the fundamentals of programming in Python. 
+Welcome to the **Python Basics** repository! A structured collection of concepts, exercises, and mini-projects to guide you through learning Python from the ground up.
+
+---
 
 ## 📂 Project Structure
 
-This repository is organized into the following key directories:
+```
+python-basic/
+│
+├── chapters/                          ← Core learning modules
+│   ├── 01_basics/
+│   │   ├── concepts/                  ← Numbered concept files
+│   │   │   ├── 01_hello_world.py
+│   │   │   ├── 02_comments.py
+│   │   │   ├── ...
+│   │   │   └── operators/
+│   │   │       ├── 01_arithmetic.py
+│   │   │       ├── 02_comparison.py
+│   │   │       └── ...
+│   │   └── exercises/
+│   │
+│   ├── 02_variables_datatypes/
+│   ├── 03_strings/
+│   ├── 04_list_tuple/
+│   ├── 05_dictionary_sets/
+│   ├── 06_conditionals/
+│   ├── 07_loops/
+│   ├── 08_functions_recursion/
+│   ├── 09_files/
+│   └── 10_oops/
+│
+├── practice/                          ← Coding exercises by topic
+│   ├── strings/
+│   ├── lists/
+│   ├── functions/
+│   ├── operators/
+│   ├── misc/
+│   └── tricky/
+│
+├── projects/                          ← Mini-projects
+│   ├── madlib_game/
+│   ├── todo_list/
+│   └── snake_water_gun/
+│
+└── resources/
+    └── the_ultimate_python_handbook.pdf
+```
 
-- **`Chapters/`**: Contains structured modules covering core Python concepts, sequentially logically grouped (e.g., basics, variables, loops, OOP).
-- **`Practice/`**: Holds coding exercises to test and reinforce your newly acquired knowledge.
-- **`Projects/`**: Small to medium beginner projects that combine concepts into functional programs.
-- **`The Ultimate Python Handbook.pdf`**: A comprehensive guidebook detailing Python concepts for your reference.
+---
 
 ## 📚 Topics Covered
 
-The materials in this repository thoroughly cover:
+1. **Getting Started** — `print`, comments, indentation, user input
+2. **Variables & Data Types** — Typecasting, booleans, `is` operator, multiple assignment
+3. **Operators** — Arithmetic, comparison, logical, membership, conditional expressions
+4. **Math Functions** — Built-in math functions and the `math` module
+5. **Strings** — Methods, slicing, escape sequences
+6. **Lists & Tuples** — Mutability, methods, sequential data
+7. **Dictionaries & Sets** — Key-value pairs, set operations
+8. **Conditionals** — `if/elif/else`, ternary expressions
+9. **Loops** — `for`, `while`, `enumerate`, `zip`, `break/continue`
+10. **Functions & Recursion** — Parameters, return values, lambda, recursion
+11. **File I/O** — Reading, writing, appending files
+12. **OOP** — Classes, objects, constructors, class vs instance attributes
 
-1. **Getting Started**: Basic output (`print`), basic handling, user input
-2. **Variables & Data Types**: Typecasting, integers, floating point, etc.
-3. **Operators**: Arithmetic, augmented assignment, logical operators
-4. **Math Functions**: Built-in Python math functions and the `math` module
-5. **Control Flow**: `if/elif/else` statements, conditional expressions (Ternary Operator)
-6. **Data Structures**: 
-   - **Strings**: String functions, methods, slicing, escape sequences
-   - **Lists & Tuples**: Mutability and sequential data collections
-7. **Functions**: Function definitions, arguments, returns, and special concepts like recursion
-8. **File I/O**: Reading from and writing to external files
-9. **Object-Oriented Programming (OOP)**: Understanding classes, objects, and core OOP principles in Python
+---
 
 ## 🚀 How to Use
 
-1. **Explore the chapters**: Start inside the `Chapters/` directory sequentially from `01_basics` through `10_oops`.
-2. **Practice**: Make sure to check out the `Practice/` folder to challenge yourself with exercises.
-3. **Build**: Visit `Projects/` to apply everything you've learned in mini-applications.
+1. **Learn** — Start in `chapters/` sequentially from `01_basics` → `10_oops`. Each chapter has a `concepts/` folder (theory) and an `exercises/` folder (practice).
+2. **Practice** — Challenge yourself with `practice/` problems grouped by topic.
+3. **Build** — Apply everything in `projects/` with real mini-applications.
+
+---
 
 Happy Coding! 💻🎉
