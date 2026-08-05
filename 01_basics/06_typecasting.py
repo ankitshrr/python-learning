@@ -4,11 +4,12 @@
 name = "ankitshrr"
 age = "22"
 gpa = 3.2
-is_student = True
- 
-gpa = int(gpa)
-print(type(gpa))
+print("age:" ,type(age))
+print("gpa:" ,type(gpa))
+age = int(age)      # overwrite 
+gpa = int(gpa)      # overwrite 
+name= int(name)    #overwrite
 
-age = str(age)
-num=float(gpa)
 print(type(age))
+print(type(gpa))
+print(type(name)) # Valueerror: real string cannot change to int
