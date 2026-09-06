@@ -38,4 +38,3 @@ Converts one data type to another.
 - `bool()`
 
 ---
-
