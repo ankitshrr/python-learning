@@ -1,11 +1,14 @@
-#this line demonstrate indentation rule
-if True: #condition is always true
-    print("correct indentation") # indented line belongs to if block
-    # Indented print() → part of if block
-
-#     if condition:
-#     inside block
-#     inside block
-# outside block
 
 # Indentation tells Python where the block starts and ends.
+# Indentation decides which lines belong to a block in Python.
+if True:  # This condition is always true
+    print("Correct indentation")
+    # This line is also part of the if block
+
+# Example of indentation:
+# if condition:
+#     statement inside the block
+#     another statement inside the block
+# statement outside the block
+
+# Python uses indentation instead of braces {} to define code blocks.
